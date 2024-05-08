@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17850648751",
+    "project_id": "proyecto-comida-c5cb9",
+    "storage_bucket": "proyecto-comida-c5cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17850648751:android:6cc39cfa785e6098f22c5a",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_comida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbP7VczlPHjatUQ5qFzRaSItkw8IdZhfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
